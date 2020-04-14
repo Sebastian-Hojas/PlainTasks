@@ -720,7 +720,9 @@ class PlainTasksRemain(PlainTasksViewEventListener):
         for point, content in self.phantoms:
             upd.append(sublime.Phantom(
                 sublime.Region(point),
-                (overdue_format if '-' in content else remain_format).format(time=content.lstrip('-') or 'a little bit'),
+                    '<span style="color: #586e7560">'
+                    + (overdue_format if '-' in content else remain_format).format(time=content.lstrip('-') or 'a little bit')
+                    + '</span>',
                 sublime.LAYOUT_BELOW))
         self.phantom_set.update(upd)
 
