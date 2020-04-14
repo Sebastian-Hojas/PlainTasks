@@ -16,13 +16,11 @@
 			  <key>foreground</key>
 			  <string>#93a1a1</string><!-- base1 -->
 			  <key>invisibles</key>
-			  <string>#EAE3C920</string>
+			  <string>#EAE3C9</string>
 			  <key>lineHighlight</key>
 			  <string>#073642</string><!-- base02 -->
 			  <key>selection</key>
 			  <string>#073642</string><!-- base02 -->
-			  <key>fold_marker</key>
-			  <string>#b58900</string><!-- base1 -->
 			</dict>
 		</dict>
 		<dict>
@@ -59,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#586e7560</string><!-- base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
