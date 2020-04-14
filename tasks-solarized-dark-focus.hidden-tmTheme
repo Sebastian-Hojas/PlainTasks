@@ -131,7 +131,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#93a1a150</string><!-- base1 - 50% opacity - nonstandard -->
+				<string>#93a1a110</string><!-- base1 - 50% opacity - nonstandard -->
 				<key>fontStyle</key>
 				<string></string>
 			</dict>
@@ -144,7 +144,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#93a1a150</string><!-- base1 - 50% opacity - nonstandard -->
+				<string>#93a1a110</string><!-- base1 - 50% opacity - nonstandard -->
 				<key>fontStyle</key>
 				<string></string>
 			</dict>
